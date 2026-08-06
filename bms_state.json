@@ -6,7 +6,7 @@
       "date": "20260808",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "0"
     },
     "PVFS|43963|20260808|CLASSIC": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -72,14 +72,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30960|20260808|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "01:50 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "2"
-    },
     "AACN|30960|20260808|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "01:50 PM",
@@ -87,6 +79,14 @@
       "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
+    },
+    "AACN|30960|20260808|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "01:50 PM",
+      "date": "20260808",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "2"
     },
     "AACN|31000|20260808|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -112,14 +112,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30961|20260808|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "2"
-    },
     "AACN|30961|20260808|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:45 PM",
@@ -127,6 +119,14 @@
       "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
+    },
+    "AACN|30961|20260808|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:45 PM",
+      "date": "20260808",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "2"
     },
     "AACN|31001|20260808|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -192,19 +192,19 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30963|20260808|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:35 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|30963|20260808|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:35 PM",
       "date": "20260808",
       "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AACN|30963|20260808|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:35 PM",
+      "date": "20260808",
+      "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "3"
     },
@@ -224,19 +224,19 @@
       "price": "295.00",
       "status": "3"
     },
-    "ILKS|9235|20260808|LOUNGER ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "10:00 AM",
-      "date": "20260808",
-      "cat": "LOUNGER ROWS",
-      "price": "354.00",
-      "status": "3"
-    },
     "ILKS|9235|20260808|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "10:00 AM",
       "date": "20260808",
       "cat": "RECLINER ROWS",
+      "price": "354.00",
+      "status": "2"
+    },
+    "ILKS|9235|20260808|LOUNGER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "10:00 AM",
+      "date": "20260808",
+      "cat": "LOUNGER ROWS",
       "price": "354.00",
       "status": "3"
     },
@@ -262,6 +262,14 @@
       "date": "20260808",
       "cat": "RECLINER ROWS",
       "price": "354.00",
+      "status": "1"
+    },
+    "ILKS|9215|20260808|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "11:10 AM",
+      "date": "20260808",
+      "cat": "PRIME ROWS",
+      "price": "295.00",
       "status": "3"
     },
     "ILKS|9215|20260808|CLASSIC ROWS": {
@@ -269,14 +277,6 @@
       "time": "11:10 AM",
       "date": "20260808",
       "cat": "CLASSIC ROWS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ILKS|9215|20260808|PRIME ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260808",
-      "cat": "PRIME ROWS",
       "price": "295.00",
       "status": "3"
     },
@@ -342,7 +342,7 @@
       "date": "20260808",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "IPRS|16377|20260808|CLASSIC": {
       "venue": "INOX: Prism Mall, Hyderabad",
