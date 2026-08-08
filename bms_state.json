@@ -22,7 +22,7 @@
       "date": "20260808",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "1"
+      "status": "0"
     },
     "AACN|31095|20260808|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -136,14 +136,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30965|20260809|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "01:50 PM",
-      "date": "20260809",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "1"
-    },
     "AACN|30965|20260809|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "01:50 PM",
@@ -151,6 +143,14 @@
       "cat": "LOUNGES",
       "price": "295.00",
       "status": "2"
+    },
+    "AACN|30965|20260809|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "01:50 PM",
+      "date": "20260809",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "1"
     },
     "AACN|31005|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -176,14 +176,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30966|20260809|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260809",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "1"
-    },
     "AACN|30966|20260809|LOUNGES": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:45 PM",
@@ -191,6 +183,14 @@
       "cat": "LOUNGES",
       "price": "295.00",
       "status": "3"
+    },
+    "AACN|30966|20260809|EXECUTIVE": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:45 PM",
+      "date": "20260809",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "1"
     },
     "AACN|31006|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -406,7 +406,7 @@
       "date": "20260809",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PIMH|33126|20260809|RECLINER": {
       "venue": "PVR: Irrum Manzil, Hyderabad",
@@ -422,7 +422,7 @@
       "date": "20260809",
       "cat": "CLASSIC",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PVUM|27914|20260809|CLASSIC": {
       "venue": "PVR: Musarambagh, Hyderabad",
