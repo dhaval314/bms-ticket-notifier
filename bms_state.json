@@ -1,29 +1,5 @@
 {
   "shows": {
-    "AACN|30963|20260808|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:35 PM",
-      "date": "20260808",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AACN|30963|20260808|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:35 PM",
-      "date": "20260808",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AACN|30963|20260808|EXECUTIVE": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:35 PM",
-      "date": "20260808",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "0"
-    },
     "AACN|31095|20260808|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "11:05 PM",
@@ -31,38 +7,6 @@
       "cat": "GOLD",
       "price": "350.00",
       "status": "0"
-    },
-    "APNS|2497|20260808|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "10:35 PM",
-      "date": "20260808",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
-    "APNS|2497|20260808|CLASSIC": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "10:35 PM",
-      "date": "20260808",
-      "cat": "CLASSIC",
-      "price": "295.00",
-      "status": "3"
-    },
-    "APNS|2497|20260808|LOUNGES": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "10:35 PM",
-      "date": "20260808",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
-    "APNS|2562|20260808|GOLD": {
-      "venue": "Aparna Cinemas: Shamshabad",
-      "time": "11:00 PM",
-      "date": "20260808",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "2"
     },
     "PVFS|43968|20260809|RECLINER": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -96,14 +40,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30964|20260809|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "10:55 AM",
-      "date": "20260809",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|30964|20260809|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "10:55 AM",
@@ -111,6 +47,14 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
+    },
+    "AACN|30964|20260809|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "10:55 AM",
+      "date": "20260809",
+      "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
     },
     "AACN|31004|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -136,14 +80,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30965|20260809|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "01:50 PM",
-      "date": "20260809",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "2"
-    },
     "AACN|30965|20260809|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "01:50 PM",
@@ -151,6 +87,14 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
+    },
+    "AACN|30965|20260809|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "01:50 PM",
+      "date": "20260809",
+      "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "2"
     },
     "AACN|31005|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -336,14 +280,6 @@
       "price": "354.00",
       "status": "1"
     },
-    "ILKS|9292|20260809|CLASSIC ROWS": {
-      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-      "time": "11:10 AM",
-      "date": "20260809",
-      "cat": "CLASSIC ROWS",
-      "price": "295.00",
-      "status": "3"
-    },
     "ILKS|9292|20260809|PRIME ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
       "time": "11:10 AM",
@@ -351,6 +287,14 @@
       "cat": "PRIME ROWS",
       "price": "295.00",
       "status": "1"
+    },
+    "ILKS|9292|20260809|CLASSIC ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "11:10 AM",
+      "date": "20260809",
+      "cat": "CLASSIC ROWS",
+      "price": "295.00",
+      "status": "3"
     },
     "PIIC|32035|20260809|CLASSIC": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
@@ -422,7 +366,7 @@
       "date": "20260809",
       "cat": "CLASSIC",
       "price": "295.00",
-      "status": "2"
+      "status": "3"
     },
     "PVUM|27914|20260809|CLASSIC": {
       "venue": "PVR: Musarambagh, Hyderabad",
