@@ -1,13 +1,5 @@
 {
   "shows": {
-    "AACN|31095|20260808|GOLD": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "11:05 PM",
-      "date": "20260808",
-      "cat": "GOLD",
-      "price": "350.00",
-      "status": "0"
-    },
     "PVFS|43968|20260809|RECLINER": {
       "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
       "time": "09:15 AM",
@@ -120,14 +112,6 @@
       "price": "350.00",
       "status": "0"
     },
-    "AACN|30966|20260809|LOUNGES": {
-      "venue": "Aparna Cinemas: Nallagandla",
-      "time": "04:45 PM",
-      "date": "20260809",
-      "cat": "LOUNGES",
-      "price": "295.00",
-      "status": "3"
-    },
     "AACN|30966|20260809|EXECUTIVE": {
       "venue": "Aparna Cinemas: Nallagandla",
       "time": "04:45 PM",
@@ -135,6 +119,14 @@
       "cat": "EXECUTIVE",
       "price": "295.00",
       "status": "1"
+    },
+    "AACN|30966|20260809|LOUNGES": {
+      "venue": "Aparna Cinemas: Nallagandla",
+      "time": "04:45 PM",
+      "date": "20260809",
+      "cat": "LOUNGES",
+      "price": "295.00",
+      "status": "3"
     },
     "AACN|31006|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -174,7 +166,7 @@
       "date": "20260809",
       "cat": "EXECUTIVE",
       "price": "295.00",
-      "status": "2"
+      "status": "1"
     },
     "AACN|31007|20260809|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -294,7 +286,7 @@
       "date": "20260809",
       "cat": "CLASSIC ROWS",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PIIC|32035|20260809|CLASSIC": {
       "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
@@ -366,7 +358,7 @@
       "date": "20260809",
       "cat": "CLASSIC",
       "price": "295.00",
-      "status": "3"
+      "status": "2"
     },
     "PVUM|27914|20260809|CLASSIC": {
       "venue": "PVR: Musarambagh, Hyderabad",
@@ -502,7 +494,7 @@
       "date": "20260809",
       "cat": "GOLD",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "APNS|2501|20260809|CLASSIC": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -562,12 +554,12 @@
     }
   },
   "dates": {
-    "20260808": "AVAILABLE",
     "20260809": "BOOKABLE",
     "20260810": "AVAILABLE",
     "20260811": "AVAILABLE",
     "20260812": "AVAILABLE",
     "20260813": "AVAILABLE",
-    "20260814": "NOT_OPEN"
+    "20260814": "NOT_OPEN",
+    "20260815": "NOT_OPEN"
   }
 }
